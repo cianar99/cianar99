@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
  💫 About Me:
 Hey! I'm Ciana,<br>A Computer Science student with a strong technical interest and a passion for problem-solving, I am dedicated to learning, collaborating, and contributing to innovative projects in the field
 
@@ -15,9 +15,3 @@ Hey! I'm Ciana,<br>A Computer Science student with a strong technical interest a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cianar99&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cianar99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=cianar99&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
--->
